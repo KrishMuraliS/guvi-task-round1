@@ -1,0 +1,10 @@
+>echo "good morning" > file.txt
+>echo "good morning" >> file.txt
+>cat file.txt
+>whoami
+>tar -czf output.tar.gz folder/
+>tar -xzf output.tar.gz folder/
+>df -h
+>free -m
+>ps aux
+
